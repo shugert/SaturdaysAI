@@ -1,6 +1,11 @@
 # ¡Bienvenido!
 Este repositorio está destinado a ser una herramienta guía para convertirte en un profesional de la inteligencia artificial. En el vas a encontrar videos, ejercicios y problemas que resueltos de manera colaborativa te ayudarán a incrementar tus conocimientos de AI. 
 
+# Sílabus
+- Lección 1 - Introducción a Random Forests
+    - video: https://www.youtube.com/watch?v=CzdWqFTmn0Y
+    - notebook : <a href="https://github.com/shugert/SaturdaysAI/blob/master/Semana%202%20-%20Random%20Forest/lesson1_randomforest.ipynb">da click aquí</a>
+
 # Recursos SaturdaysAI
 Repositorio de material de clase, problemas y soluciones para alumnos de Saturdays.AI de Hermosillo, México
 
