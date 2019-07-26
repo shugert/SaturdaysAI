@@ -5,6 +5,15 @@ Este repositorio está destinado a ser una herramienta guía para convertirte en
 - Lección 1 - Introducción a Random Forests
     - video: https://www.youtube.com/watch?v=CzdWqFTmn0Y
     - notebook : <a href="https://github.com/shugert/SaturdaysAI/blob/master/Semana%202%20-%20Random%20Forest/lesson1_randomforest.ipynb">da click aquí</a>
+    
+- Lección 2 (Random Forest) - Random Forest Regression y Classification.
+    - video: https://www.youtube.com/watch?v=blyXCk4sgEg
+    - notebook bulldozer:<a href="https://github.com/shugert/SaturdaysAI/blob/master/Semana%203%20-%20Random%20Forest%20Regressor/Untitled.ipynb">aquí</a>
+    - notebook advertising: <a href="https://github.com/shugert/SaturdaysAI/blob/master/Semana%203%20-%20Random%20Forest%20Classifier/Caso%201%20Advertising.ipynb">aquí</a>
+    
+- Lección 3 (Random Forest) - Performance, Validation and Model Interpretation
+    - video: https://www.youtube.com/watch?v=YSFG_W8JxBo
+    - Grocery notebook (video del minuto 0 al 50) <a href="https://github.com/shugert/SaturdaysAI/blob/master/Semana%204%20-%20Performance%2C%20Validation%20and%20Model%20Interpretation/semana4_grocery.ipynb">aquí</a>
 
 # Recursos SaturdaysAI
 Repositorio de material de clase, problemas y soluciones para alumnos de Saturdays.AI de Hermosillo, México
